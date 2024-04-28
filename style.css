@@ -35,3 +35,25 @@ p {
         bottom: 100px;
         }
 }
+
+#balloons {
+    position: absolute;
+    right: 0;
+}
+
+#wabe_love {
+    position: absolute;
+    right: 300px;
+}
+
+#about_wabe {
+    position: absolute;
+    right: 700px;
+    top: 150px;
+}
+
+#text {
+    position: absolute;
+    right: 420px;
+    top: 650px;
+}
